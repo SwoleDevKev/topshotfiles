@@ -2418,6 +2418,18 @@ input, select, textarea {
 				width: 100%;
 			}
 
+
+/* Videos */
+
+video {
+	max-height: 25rem;
+	max-width: 25rem;
+}
+
+
+
+
+
 /* List */
 
 	ol {
